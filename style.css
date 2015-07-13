@@ -1,0 +1,28 @@
+.aziz{
+	width: 100%;
+}
+#date{
+	font-size: 10px;
+}
+.aziz2{
+	float: right;
+	width: 76.5%;
+	border: 1px solid;
+	padding-left: 30px;
+	padding-top: 205px;
+	
+	padding-bottom: 0px;
+	background-image: url(Data/events2.jpg);
+	color: white;
+	
+	
+}
+.aziz1{
+	border: 1px solid;
+	width: 20.6%;
+	text-align: center;
+	background-color: #0000FF;
+	color: white;
+	background-image-size: 200px; 
+
+	}
