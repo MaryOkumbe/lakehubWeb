@@ -1,4 +1,5 @@
-body .guarantee{font-family:sans-serif;
+body .guarantee{padding:0px;
+	font-family:sans-serif;
 	font-size:1.3em;
 	font-style:Arial;
  max-height: auto;
@@ -6,7 +7,7 @@ body .guarantee{font-family:sans-serif;
 	background-image:url(images/background.jpg);
 background-repeat:no-repeat; }
 .header content{width: 1024px;
-height:1024px;
+height:10px;
 margin:10px;
 padding-bottom: 0px;}
 .header content a img{width: 3px;
