@@ -1,17 +1,22 @@
-body .guarantee{color:white;
+body .guarantee{font-family:sans-serif;
+	font-size:1.3em;
+	font-style:Arial;
+ max-height: auto;
+	color:white;
 	background-image:url(images/background.jpg);
 background-repeat:no-repeat; }
 .header content{width: 1024px;
-height:auto;
-margin:auto;
-background-color:white;}
+height:1024px;
+margin:10px;
+padding-bottom: 0px;}
 .header content a img{width: 3px;
 height:auto;
 margin:0px auto;
 display:block;}
 nav{background-color: white;
 height:auto;
-float:right;}
+float:right;
+padding-bottom: 0px;}
 nav ul{margin:0px;
 padding:0px;} 
 nav ul li{list-style-type: none;
