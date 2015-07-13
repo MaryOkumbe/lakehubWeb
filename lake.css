@@ -1,4 +1,4 @@
-body{background-image:url(images/background.jpg);
+body .guarantee{background-image:url(images/background.jpg);
 background-repeat:no-repeat; }
 .header content{width: 1024px;
 height:auto;
@@ -10,7 +10,7 @@ margin:0px auto;
 display:block;}
 nav{background-color: white;
 height:auto;
-}
+float:right;}
 nav ul{margin:0px;
 padding:0px;} 
 nav ul li{list-style-type: none;
