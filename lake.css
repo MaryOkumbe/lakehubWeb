@@ -1,4 +1,5 @@
-body .guarantee{background-image:url(images/background.jpg);
+body .guarantee{color:white;
+	background-image:url(images/background.jpg);
 background-repeat:no-repeat; }
 .header content{width: 1024px;
 height:auto;
