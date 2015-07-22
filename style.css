@@ -9,12 +9,13 @@
 	width: 76.5%;
 	border: 1px solid;
 	padding-left: 30px;
-	padding-top: 205px;
+	padding-top: 500px;
+	height: 100px;
 	
 	padding-bottom: 0px;
 	background-image: url(Data/events2.jpg);
 	color: white;
-	
+	background-repeat: no-repeat;
 	
 }
 .aziz1{
@@ -24,5 +25,6 @@
 	background-color: #0000FF;
 	color: white;
 	background-image-size: 200px; 
+	height: 700px;
 
 	}
